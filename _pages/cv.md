@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Tianjin University, 2009
+* M.S. in Automation, Tianjin University, 2012
+* Ph.D in Computer Vision and Machine Learning, Virginia Tech, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013-2017: Research Assistant
+  * Virginia Tech
+  * Research: Developing diverse models in solving structured prediction problems
+  * Supervisor: [Dhurv Batra](https://www.cc.gatech.edu/~dbatra/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016-2017: Research Intern
+  * Institute of Deep Learning, Baidu Research
+  * Research: meta-learning through natural language interaction
+  * Supervisor: Yi Yang and Wei Xu
+
+* 2012-2013: Research Assistant
+  * Computational Bioinformatics and Bio-imaging Laboratory(CBIL)
+  * Research: Genome/pathway-wide detection of interacting genomic/epigenetic loci and environment variables
+  * Supervisor: Yue Wang
 
 Publications
 ======
