@@ -2,7 +2,7 @@
 title: "Active Learning for Structured Probabilistic Models with Histogram Approximation"
 collection: publications
 permalink: /publication/2015-05-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2015-05-01
 venue: 'CVPR'
 paperurl: 'https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Active_Learning_for_2015_CVPR_paper.pdf'
