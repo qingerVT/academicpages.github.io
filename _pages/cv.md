@@ -52,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Serve as reviewers for NeruIPS, CVPR, ECCV and ICLR
