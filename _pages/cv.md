@@ -18,8 +18,10 @@ Education
 Work experience
 ======
 * 2013-2017: Research Assistant
-  * Virginia Tech
-  * Research: Developing diverse models in solving structured prediction problems
+  * Research: 
+    ** Developing diverse models in solving structured prediction problems
+    ** Bidirectional image captioning
+    ** Diverse image captioning
   * Supervisor: [Dhurv Batra](https://www.cc.gatech.edu/~dbatra/)
 
 * 2016-2017: Research Intern
