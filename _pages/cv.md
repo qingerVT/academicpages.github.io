@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automation, Tianjin University, 2009
-* M.S. in Automation, Tianjin University, 2012
+* B.S. in Control Engineering, Tianjin University, 2009
+* M.S. in Control Engineering, Tianjin University, 2012
 * Ph.D in Computer Vision and Machine Learning, Virginia Tech, 2017
 
 Work experience
