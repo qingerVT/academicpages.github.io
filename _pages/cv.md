@@ -20,8 +20,7 @@ Work experience
 * 2013-2017: Research Assistant
   * Research: 
     * Developing diverse models in solving structured prediction problems
-    * Bidirectional image captioning
-    * Diverse image captioning
+    * Bidirectional image captioning (compared with BERT, we focus on bidirectional generation)
   * Supervisor: [Dhurv Batra](https://www.cc.gatech.edu/~dbatra/)
 
 * 2016-2017: Research Intern
