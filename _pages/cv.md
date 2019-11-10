@@ -26,12 +26,12 @@ Work experience
 * 2016-2017: Research Intern
   * Institute of Deep Learning, Baidu Research
   * Research: meta-learning through natural language interaction
-  * Supervisor: Yi Yang and Wei Xu
+  * Supervisor: [Yi Yang](https://yangyi02.github.io/) and [Wei Xu](https://www.linkedin.com/in/emailweixu)
 
 * 2012-2013: Research Assistant
   * Computational Bioinformatics and Bio-imaging Laboratory(CBIL)
   * Research: Genome/pathway-wide detection of interacting genomic/epigenetic loci and environment variables
-  * Supervisor: Yue Wang
+  * Supervisor: [Yue Wang](https://ece.vt.edu/people/profile/ywang)
 
 Publications
 ======
