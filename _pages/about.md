@@ -13,5 +13,5 @@ My previous works lie at the intersection of machine learning, computer vision a
 
 Now, I am excited about the developing intelligent agents that are able to acquire knowledge and adapt to novel enviroments quickly, especially though natural language interactions.
 * Cross-modal transfer learning
-* Symbolic representation -> Symbolic reasoning
+* Symbolic representation
 * Weakly supervised learning with natural languages
