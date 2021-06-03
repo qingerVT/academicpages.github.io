@@ -11,4 +11,4 @@ citation: 'Ashwin Vijayakumar, Michael Cogswell, Ramprasaath Selvaraju, Qing Sun
 
 [Download paper here](https://arxiv.org/abs/1610.02424)
 
-Recommended citation: Ashwin Vijayakumar, Michael Cogswell, Ramprasaath Selvaraju, Qing Sun, Stefan Lee, David Crandall, Dhruv Batra. (2018). "Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models." <i>AAAI</i>. 1(2).
+Ashwin Vijayakumar, Michael Cogswell, Ramprasaath Selvaraju, **Qing Sun**, Stefan Lee, David Crandall, Dhruv Batra. (2018). "Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models." <i>AAAI</i>. 1(2).
