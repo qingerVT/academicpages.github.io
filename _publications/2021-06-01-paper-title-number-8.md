@@ -10,3 +10,5 @@ citation: 'Qing Sun, Parminder Bhatia. &quot;Neural Entity Recognition with Gaze
 ---
 
 [Download paper here](https://arxiv.org/pdf/2105.13225.pdf)
+
+**Qing Sun**, Parminder Bhatia. Neural Entity Recognition with Gazetteer based Fusion. ACL, 2021
