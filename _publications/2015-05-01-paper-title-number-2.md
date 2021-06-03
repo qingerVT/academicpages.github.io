@@ -11,4 +11,4 @@ citation: 'Qing Sun, Ankit Laddha, Dhruv Batra. (2015). &quot;Active Learning fo
 
 [Download paper here](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Active_Learning_for_2015_CVPR_paper.pdf)
 
-Recommended citation: Qing Sun, Ankit Laddha, Dhruv Batra. (2015). "Active Learning for Structured Probabilistic Models with Histogram Approximation." <i>CVPR</i>. 1(2).
+Qing Sun, Ankit Laddha, Dhruv Batra. (2015). "Active Learning for Structured Probabilistic Models with Histogram Approximation." <i>CVPR</i>. 1(2).
