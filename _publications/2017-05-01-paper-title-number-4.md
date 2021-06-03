@@ -11,4 +11,4 @@ citation: 'Qing Sun, Stefan Lee, Dhruv Batra. (2017). &quot;Bidirectional Beam S
 
 [Download paper here](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sun_Bidirectional_Beam_Search_CVPR_2017_paper.pdf)
 
-Recommended citation: Qing Sun, Stefan Lee, Dhruv Batra. (2017). "Bidirectional Beam Search: Forward-Backward Inference in Neural Sequence Models for Fill-in-the-Blank Image Captioning." <i>CVPR</i>. 1(2).
+**Qing Sun**, Stefan Lee, Dhruv Batra. (2017). "Bidirectional Beam Search: Forward-Backward Inference in Neural Sequence Models for Fill-in-the-Blank Image Captioning." <i>CVPR</i>. 1(2).
