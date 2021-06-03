@@ -10,3 +10,5 @@ citation: 'Kristjan Arumae, Qing Sun, Parminder Bhatia. &quot;An Empirical Inves
 ---
 
 [Download paper here](https://arxiv.org/pdf/2010.00784.pdf)
+
+Kristjan Arumae, **Qing Sun**, Parminder Bhatia. An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training. EMNLP, 2020
