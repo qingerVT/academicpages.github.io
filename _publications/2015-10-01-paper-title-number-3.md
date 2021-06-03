@@ -11,4 +11,4 @@ citation: 'Qing Sun, Dhruv Batra. (2015). &quot;SubmodBoxes: Near-Optimal Search
 
 [Download paper here](https://filebox.ece.vt.edu/~sunqing/sb_nips15.pdf)
 
-Recommended citation: Qing Sun, Dhruv Batra. (2015). "SubmodBoxes: Near-Optimal Search for a Set of Diverse Object Proposals." <i>NIPS</i>. 1(2).
+**Qing Sun**, Dhruv Batra. (2015). "SubmodBoxes: Near-Optimal Search for a Set of Diverse Object Proposals." <i>NIPS</i>. 1(2).
