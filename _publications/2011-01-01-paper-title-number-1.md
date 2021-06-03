@@ -11,4 +11,4 @@ citation: 'Qing Sun, Huaxiang Wang. (2011). &quot;Mesh wire tomography combined 
 
 [Download paper here]()
 
-Qing Sun, Huaxiang Wang. (2011). "Mesh wire tomography combined with a modified sensitivity map" <i>IST</i>. 1(1).
+**Qing Sun**, Huaxiang Wang. (2011). "Mesh wire tomography combined with a modified sensitivity map" <i>IST</i>. 1(1).
