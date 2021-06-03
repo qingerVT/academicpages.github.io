@@ -11,3 +11,5 @@ citation: 'Kristjan Arumae, Qing Sun, Parminder Bhatia. &quot;An Empirical Inves
 ---
 
 [Download paper here](https://arxiv.org/pdf/2010.00784.pdf)
+
+Recommended citation: Qing Sun, Ankit Laddha, Dhruv Batra. (2015). "Active Learning for Structured Probabilistic Models with Histogram Approximation." <i>CVPR</i>. 1(2).
